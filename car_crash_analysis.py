@@ -9,7 +9,6 @@ from pyspark.sql import SparkSession
 
 class CarCrashAnalysis(object):
     """
-    This is a solution to an assignment provided by BCG.
     This class reads the files present in the folder Data_files
     which contains files related to Car Crashes in US.
     The method execute_analysis performs various analysis using
